@@ -1,0 +1,15 @@
+html{
+background: rgba(0,0,0,0) !important;
+}
+.title__85643, .recentsIcon_c99c29, .anchor_edefb8.anchorUnderlineOnHover_edefb8{
+display: none !important;
+}
+.content_c48ade{
+background: linear-gradient(0deg,rgba(7, 41, 41, 1) 0%, rgba(12, 20, 61, 1) 100%) !important;
+*{
+background-color: rgba(0,0,0,0) !important;
+}
+}
+.bar_c38106{
+background-color: rgba(12, 20, 61, 1);
+}
