@@ -13,6 +13,6 @@ background-color: rgba(0,0,0,0) !important;
 .bar_c38106{
 background-color: rgba(12, 20, 61, 1);
 }
-.sidebar_c48ade::after{
-background-color: rgba(0,0,0,0) !important;
+.sidebar_c48ade::after, .children__9293f::after{
+display: none;
 }
