@@ -14,5 +14,5 @@ background-color: rgba(0,0,0,0) !important;
 background-color: rgba(12, 20, 61, 1);
 }
 .sidebar_c48ade::after, .children__9293f::after{
-background-color: rgba(0,0,0,0) !important;
+display: none;
 }
