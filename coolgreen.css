@@ -7,7 +7,7 @@ display: none !important;
 .content_c48ade{
 background: linear-gradient(0deg,rgba(7, 41, 41, 1) 0%, rgba(12, 20, 61, 1) 100%) !important;
 *{
-background-color: rgba(0,0,0,0) !important;
+background-color: rgba(0,0,0,0.01) !important;
 }
 }
 .bar_c38106{
